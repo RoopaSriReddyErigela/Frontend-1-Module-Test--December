@@ -251,14 +251,13 @@ nav>ul>li>a {
   
   #testimonial-col2 {
     flex: 1;
-    display:flex;
   }
   
   #testimonial-col2 > h2 {
     color: #212244;
     font-size: 48px;
     font-weight: 600;
-    line-height: 60px; /* 125% */
+    line-height: 60px;
     letter-spacing: 0.96px;
   }
   #testimonial-col2 > div {
@@ -287,6 +286,8 @@ nav>ul>li>a {
   }
   #download-app > img {
     width: 100%;
+    margin-top: 100px;
+    margin-bottom: 30px;
   }
   
   #social-icons {
@@ -390,9 +391,6 @@ nav>ul>li>a {
     }
     #testimonial-col2 {
       margin-top: 30px;
-    }
-    #small-box {
-      display: none;
     }
   }
   
