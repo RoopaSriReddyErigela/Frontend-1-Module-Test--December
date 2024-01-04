@@ -139,6 +139,7 @@ nav>ul>li>a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+   
   }
   
   .card-border {
@@ -171,6 +172,7 @@ nav>ul>li>a {
   }
   #recipe-section {
     margin-top: 60px;
+    width:auto;
     
   }
   #recipe-section > h2 {
@@ -198,6 +200,7 @@ nav>ul>li>a {
   }
   #recipe-nav > ul > li:hover {
     border-bottom: 2px solid #f94a3d;
+    color:#f94a3d;
   }
   #testimonial-section {
     background-color: #f8f8f8;
