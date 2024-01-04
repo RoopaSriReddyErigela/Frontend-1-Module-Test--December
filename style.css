@@ -18,6 +18,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    background-color: rgb(255, 253, 253);
 }
 
 nav>div {
@@ -69,6 +70,8 @@ nav>ul>li>a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: rgb(255, 253, 253);
+    
   }
   #hero-col1 {
     max-width: 524px;
